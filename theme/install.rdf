@@ -40,6 +40,14 @@
         <em:description>Тема GNOME для Firefox</em:description>
       </Description>
     </em:localized>
+    
+    <em:localized>
+      <Description em:locale="hindi">
+        <em:name>ग्नोम</em:name>
+        <em:description>Firefox के लिए ग्नोम थीम</em:description>
+      </Description>
+    </em:localized>
+
 
     <em:targetApplication>
       <Description>
